@@ -1,8 +1,6 @@
 package step01;
 
-import java.util.Scanner;
-
-public class Divide {
+public class Step01 {
     public static void main(String[] args) {
         //3003 - 킹, 퀸, 룩, 비숍, 나이트, 폰
         /*Scanner sc = new Scanner(System.in);
